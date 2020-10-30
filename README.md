@@ -27,6 +27,7 @@ Write this as a brief summary of your interests and intent, including: The kind 
 The data our group is interested in are retail datasets primarily focusing on online conversion and customer behaviour.
 
 <br />
+
 **The kinds of questions you'll be asking of that data**
 
 (1) Does temperature have an effect on purchases?
@@ -46,6 +47,7 @@ The data our group is interested in are retail datasets primarily focusing on on
 (8) What brands are mostly sold?
 
 <br />
+
 **Possible source for such data**
 
 (1) openweather API (For temperatures) 
