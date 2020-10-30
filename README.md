@@ -3,13 +3,18 @@
 Team Name: Awesome Possum
 
 Group Members/Roles:
-Rebecca Pham (Plots)
-Ronald Clarke(Clean the data) 
-Hanieh Babaee(Finding Datasets and extracting from API) 
-Olaitan Oyefiade(Identify Relationships)
-May Lacdao (Putting Finding/Plots together for Presentation)
 
-The data our group plans to explore are retail datasets primarily focusing on better understanding the dynamics of online conversion and customer behaviour. 
+(1) Rebecca Pham (Plots)
+
+(2) Ronald Clarke(Clean the data)
+
+(3) Hanieh Babaee(Finding Datasets and extracting from API) 
+
+(4) Olaitan Oyefiade(Identify Relationships)
+
+(5) May Lacdao (Putting Finding/Plots together for Presentation)
+
+  The data our group plans to explore are retail datasets primarily focusing on better understanding the dynamics of online conversion and customer behaviour. 
 We’ll be examining the relationship between sale price and regular price. Other variables we’ll be analysing are location, the product item, temperature and time of 
 purchases to determine if there are any relationships and extract any insightful findings.
 
@@ -21,6 +26,7 @@ Before you start writing any code, your group should outline the scope and purpo
 -Write this as a brief summary of your interests and intent, including: The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
 
 The data our group is interested in are retail datasets primarily focusing on online conversion and customer behaviour.
+
 
 -The kinds of questions you'll be asking of that data
 
@@ -39,6 +45,7 @@ The data our group is interested in are retail datasets primarily focusing on on
 (7) Time of day that customers purchase specific products 
 
 (8) What brands are mostly sold?
+
 
 -Possible source for such data
 
