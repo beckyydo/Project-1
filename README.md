@@ -30,7 +30,7 @@ The data our group is interested in are retail datasets primarily focusing on on
 
 <br />
 
-**The kinds of questions you'll be asking of that data:**
+**Possible questions to ask for the data:**
 
 (1) Does temperature have an effect on purchases?
 
