@@ -20,6 +20,8 @@ The data our group plans to explore are retail datasets primarily focusing on be
 We’ll be examining the relationship between sale price and regular price. Other variables we’ll be analysing are location, the product item, temperature and time of 
 purchases to determine if there are any relationships and extract any insightful findings.
 
+<br />
+
 ## Project Proposal Outline
 
 **Brief summary of interests and intent:**
