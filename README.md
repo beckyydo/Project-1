@@ -6,16 +6,17 @@
 
 (1) Rebecca Pham (Plots)
 
-(2) Ronald Clarke(Clean the data)
+(2) Ronald Clarke (Clean the data)
 
-(3) Hanieh Babaee(Finding Datasets and extracting from API) 
+(3) Hanieh Babaee (Finding Datasets and extracting from API) 
 
-(4) Olaitan Oyefiade(Identify Relationships)
+(4) Olaitan Oyefiade (Identify Relationships)
 
 (5) May Lacdao (Putting Finding/Plots together for Presentation)
 
 <br />
-  The data our group plans to explore are retail datasets primarily focusing on better understanding the dynamics of online conversion and customer behaviour. 
+    
+    The data our group plans to explore are retail datasets primarily focusing on better understanding the dynamics of online conversion and customer behaviour. 
 We’ll be examining the relationship between sale price and regular price. Other variables we’ll be analysing are location, the product item, temperature and time of 
 purchases to determine if there are any relationships and extract any insightful findings.
 
@@ -24,7 +25,7 @@ purchases to determine if there are any relationships and extract any insightful
 **Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent scope creep.
 Write this as a brief summary of your interests and intent, including: The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)**
 
-The data our group is interested in are retail datasets primarily focusing on online conversion and customer behaviour.
+    The data our group is interested in are retail datasets primarily focusing on online conversion and customer behaviour.
 
 <br />
 
