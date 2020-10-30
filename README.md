@@ -1,8 +1,8 @@
-##Project Proposal
+# Project Proposal
 
-Team Name: Awesome Possum
+**Team Name:** Awesome Possum
 
-Group Members/Roles:
+**Group Members/Roles:**
 
 (1) Rebecca Pham (Plots)
 
@@ -20,7 +20,7 @@ purchases to determine if there are any relationships and extract any insightful
 
 
 
-#Project Proposal Outline
+## Project Proposal Outline
 
 Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent scope creep.
 -Write this as a brief summary of your interests and intent, including: The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
