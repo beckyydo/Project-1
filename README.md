@@ -22,14 +22,13 @@ purchases to determine if there are any relationships and extract any insightful
 
 ## Project Proposal Outline
 
-**Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent scope creep.
-Write this as a brief summary of your interests and intent, including: The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)**
+**Brief summary of interests and intent:**
 
 The data our group is interested in are retail datasets primarily focusing on online conversion and customer behaviour.
 
 <br />
 
-**The kinds of questions you'll be asking of that data**
+**The kinds of questions you'll be asking of that data:**
 
 (1) Does temperature have an effect on purchases?
 
@@ -49,7 +48,7 @@ The data our group is interested in are retail datasets primarily focusing on on
 
 <br />
 
-**Possible source for such data**
+**Possible source for such data:**
 
 (1) openweather API (For temperatures) 
 
