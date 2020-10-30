@@ -14,11 +14,10 @@
 
 (5) May Lacdao (Putting Finding/Plots together for Presentation)
 
+<br />
   The data our group plans to explore are retail datasets primarily focusing on better understanding the dynamics of online conversion and customer behaviour. 
 We’ll be examining the relationship between sale price and regular price. Other variables we’ll be analysing are location, the product item, temperature and time of 
 purchases to determine if there are any relationships and extract any insightful findings.
-
-
 
 ## Project Proposal Outline
 
@@ -27,7 +26,7 @@ Before you start writing any code, your group should outline the scope and purpo
 
 The data our group is interested in are retail datasets primarily focusing on online conversion and customer behaviour.
 
-
+<br />
 -The kinds of questions you'll be asking of that data
 
 (1) Does temperature have an effect on purchases?
@@ -46,7 +45,7 @@ The data our group is interested in are retail datasets primarily focusing on on
 
 (8) What brands are mostly sold?
 
-
+<br />
 -Possible source for such data
 
 (1) openweather API (For temperatures) 
