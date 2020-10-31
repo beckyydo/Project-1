@@ -32,26 +32,26 @@ The data our group is interested in are retail datasets primarily focusing on on
 
 **Possible questions to ask for the data:**
 
-(1) Does temperature have an effect on purchases?
+(1) What effect does regional temperature have on weekly sales?
 
-(2) What categories or product are popular in certain regions?
+(2) What effect does regional fuel prices have on weekly sales?
 
-(3) How quickly did online sales overtake in-store sales?
+(3) What effect does the regional unemployment rate have on weekly sales?
 
-(4) Customers reaction to rollpack price?
+(4) What effect does special holiday weeks have on weekly sales?
 
-(5) How does list price vs sale price affect which brands are more successful?
+(5) How does regular retail price vs markdown price affect weekly sales?
 
-(6) Predict which products will be re-ordered or in the customer’s next cart
-
-(7) Time of day that customers purchase specific products 
-
-(8) What brands are mostly sold?
+(6) How does markdown affect consumer price index?
 
 <br />
 
 **Possible source for such data:**
 
-(1) openweather API (For temperatures) 
+(1) Openweather API (For temperatures) 
 
-(2) Kaggle.com (For retail/business datasets)
+(2) Kaggle.com: https://www.kaggle.com/naresh31/walmart-recruiting-store-sales-forecasting
+
+(3) Walmart API: https://developer.walmartlabs.com/docs
+
+(4) JSON: https://gist.githubusercontent.com/anonymous/83803696b0e3430a52f1/raw/29f2b252981659dfa6ad51922c8155e66ac261b2/walmart.json
