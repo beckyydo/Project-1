@@ -10,9 +10,7 @@
 
 (3) Hanieh Babaee (Finding Datasets and extracting from API) 
 
-(4) Olaitan Oyefiade (Identify Relationships)
-
-(5) May Lacdao (Putting Finding/Plots together for Presentation)
+(4) May Lacdao (Observations/Identify Relationships)
 
 <br />
     
