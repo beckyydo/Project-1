@@ -40,7 +40,7 @@ The data our group is interested in are retail datasets primarily focusing on on
 
 (5) How does regular retail price vs markdown price affect weekly sales?
 
-(6) How does markdown affect consumer price index?
+(6) How does weekly sales affect consumer price index?
 
 <br />
 
