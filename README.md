@@ -30,17 +30,15 @@ The data our group is interested in are retail datasets primarily focusing on on
 
 **Possible questions to ask for the data:**
 
-(1) What effect does regional temperature have on weekly sales?
+(1) What effect does temperature have on weekly sales?
 
-(2) What effect does regional fuel prices have on weekly sales?
+(2) What effect does fuel prices have on weekly sales?
 
-(3) What effect does the regional unemployment rate have on weekly sales?
+(3) What effect does the unemployment rate have on sales (seasonal 3 months)?
 
-(4) What effect does special holiday weeks have on weekly sales?
+(4) What effect does special holiday weeks have on weekly sales? Thanksgiving, Christmas, New Years, Independence Day
 
-(5) How does regular retail price vs markdown price affect weekly sales?
-
-(6) How does weekly sales affect consumer price index?
+(5) How does weekly sales affect consumer price index?
 
 <br />
 
