@@ -4,13 +4,13 @@
 
 **Group Members/Roles:**
 
-(1) Rebecca Pham (Data Analysis)
+(1) May Lacdao (Data Extraction)
 
-(2) Ronald Clarke (Data Visualization)
+(2) Hanieh Babaee (Data Cleaning/Transformation) 
 
-(3) Hanieh Babaee (Data Cleaning/Transformation) 
+(3) Rebecca Pham (Data Analysis) 
 
-(4) May Lacdao (Data Extraction)
+(4) Ronald Clarke (Data Visualization)
 
 <br />
     
