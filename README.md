@@ -4,18 +4,18 @@
 
 **Group Members/Roles:**
 
-(1) Rebecca Pham (Data Analysis)
+(1) May Lacdao (Data Extraction)
 
-(2) Ronald Clarke (Data Visualization)
+(2) Hanieh Babaee (Data Cleaning/Transformation) 
 
-(3) Hanieh Babaee (Data Cleaning/Transformation) 
+(3) Rebecca Pham (Data Analysis) 
 
-(4) May Lacdao (Data Extraction)
+(4) Ronald Clarke (Data Visualization)
 
 <br />
     
-The data our group plans to explore are retail datasets primarily focusing on better understanding the dynamics of online conversion and customer behaviour. 
-We’ll be examining the relationship between sale price and regular price. Other variables we’ll be analysing are location, the product item, temperature and the time of 
+The data our group plans to explore are retail datasets primarily focusing on better understanding the dynamics of weekly sales during the holiday. 
+We’ll be examining the relationship between various socio-economic factors such as temperature, fuel price, consumer price index (CPI), unemployment rate and the time of 
 purchases to determine if there are any relationships and extract any insightful findings.
 
 <br />
@@ -24,21 +24,21 @@ purchases to determine if there are any relationships and extract any insightful
 
 **Brief summary of interests and intent:**
 
-The data our group is interested in are retail datasets primarily focusing on online conversion and customer behaviour.
+The data our group is interested in are retail datasets primarily focusing on weekly sales during the holiday.
 
 <br />
 
 **Possible questions to ask for the data:**
 
-(1) What effect does temperature have on weekly sales?
+(1) What effect does temperature have on weekly sales during the hoiday and regular season?
 
-(2) What effect does fuel prices have on weekly sales?
+(2) What effect does fuel prices have on weekly sales during the hoiday and regular season?
 
-(3) What effect does the unemployment rate have on sales (seasonal 3 months)?
+(3) What effect does the unemployment rate have weekly sales during the hoiday and regular season?
 
 (4) What effect does special holiday weeks have on weekly sales? Thanksgiving, Christmas, New Years, Independence Day
 
-(5) How does weekly sales affect consumer price index?
+(5) How does weekly sales affect consumer price index (CPI) during the holiday and regular season?
 
 <br />
 
