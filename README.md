@@ -1,7 +1,5 @@
 # Project Proposal
 
-**Team Name:** Awesome Possum
-
 **Group Members/Roles:**
 
 (1) May Lacdao (Data Extraction)
@@ -14,21 +12,21 @@
 
 <br />
     
-The data our group plans to explore are retail datasets primarily focusing on better understanding the dynamics of weekly sales during the holiday. 
-We’ll be examining the relationship between various socio-economic factors such as temperature, fuel price, consumer price index (CPI), unemployment rate and the time of 
+The purpose of the project is to explore retail datasets primarily focusing on better understanding the dynamics of weekly sales during the holiday. 
+The project will examine the relationship between various socio-economic factors such as temperature, fuel price, consumer price index (CPI), unemployment rate and the time of 
 purchases to determine if there are any relationships and extract any insightful findings.
 
 <br />
 
 ## Project Proposal Outline
 
-**Brief summary of interests and intent:**
+**Project Goal**
 
 The data our group is interested in are retail datasets primarily focusing on weekly sales during the holiday.
 
 <br />
 
-**Possible questions to ask for the data:**
+**Question Candidates**
 
 (1) What effect does temperature have on weekly sales during the hoiday and regular season?
 
@@ -42,7 +40,7 @@ The data our group is interested in are retail datasets primarily focusing on we
 
 <br />
 
-**Possible source for such data:**
+**Data Sources**
 
 (1) Openweather API (For temperatures) 
 
